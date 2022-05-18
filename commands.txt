@@ -2,3 +2,6 @@ git init=>initialize git in present folder
 git status=>list all untracked files
 git Add -A=>add all untracked files to staging area
 git commit -m "anymsg"
+git remote add name path
+git remote -v
+git push -u name branch
